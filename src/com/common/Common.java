@@ -9,6 +9,7 @@ import java.util.List;
 public class Common {
 	public static void main(String[] args){
 		System.out.println("common");
+
 		
 		System.out.println("Common by Vidya");
 		
@@ -20,6 +21,9 @@ public class Common {
 		for(String s: list){
 			System.out.println(s);
 		}
+
+		System.out.println("common-kripa");
+
 	}
 
 }
